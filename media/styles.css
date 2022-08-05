@@ -1,0 +1,128 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #005EB8;
+}
+
+div {
+    /*    display: block;*/
+    vertical-align: top;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: #005EB8;
+}
+a:visited {
+    text-decoration: none; 
+    color: #005EB8;
+}
+a:hover {
+    text-decoration: none; 
+    color: #005EB8;
+}
+
+
+hr {
+    background-color: #005EB8;
+    border: none;
+    height: 2px;
+}
+
+#wrapper {
+    width: 70%;
+    position: absolute;
+    left: 15%;
+}
+
+#header {
+    margin-bottom: -15px;
+    background-color: #FFFFFF;
+    text-align: center;
+    z-index: 2;
+    height: auto;
+}
+
+#top-row {
+    height: 120px;
+}
+#top-row img {
+    max-width: 90%;
+    max-height: 90%;
+}
+.header-left {
+    float: left;
+    padding: 15px;
+    padding-left: 30px;
+}
+.header-right {
+    position:relative;
+    float: right;
+    padding: 20px;
+}
+
+#bottom-row img {
+    height: 100%;
+    width: 100%;   
+}
+
+#header-titles {
+    margin-top: 15px;
+    padding-top: 1px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 1px;
+    background-color: #FFFFFF;
+    color: black;
+    font-size: 14;
+    font-family: Arial;  
+}
+
+#body {
+    margin-top: -16px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 1px;
+    background-color: #FFFFFF;
+    color: black;
+    font-size: 14;
+    font-family: Arial;  
+}
+
+#footer {
+    margin-top: -1px;
+    padding-top: 1px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 1px;
+
+    background-color: #FFFFFF;
+    color: black;
+    font-size: 14;
+    font-family: Arial;  	 	 
+}
+
+
+
+.dafx_logo {
+	max-width:50%;
+	max-height:50%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+figure {
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
