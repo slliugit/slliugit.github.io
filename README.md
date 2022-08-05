@@ -15,7 +15,7 @@ width="600px"></p>
 
 ## Denoising Recordings
 
-[Listening more test examples samples](http://research.spa.aalto.fi/publications/papers/icassp22-denoising/)
+[Listening more test examples samples](index.html)
 
 ## M&N: A music dataset for denoising music recordings in wild
 We introduce a dataset M&N, which can effectively meet the requirements of music denoising for recordings in the wild. The dataset comprises various videos and recordings of clean music and noise assembled from free sound effects website and existing cross-modal audio generation dataset FAIR-PLAY. For video data, we separate the visual and audio tracks of the video. We anticipate that the dataset will be useful for denoising task and also serve as ground-truth for evaluating performances.
