@@ -15,7 +15,34 @@ width="600px"></p>
 
 ## Denoising Recordings
 
-You can denoise your recordings in the cloud using the Colab notebook. 
+<div class="player">
+</p>
+<ts-track title="Original">
+
+        <ts-source src="./media/1/noisy.wav"></ts-source>
+
+    </ts-track>
+    <ts-track title="DCCRN">
+
+        <ts-source src="./media/1/DCCRN.wav"></ts-source>
+
+    </ts-track>
+    <ts-track title="DS-Net(full)">
+
+        <ts-source src="./media/1/DS.wav"></ts-source>
+
+    </ts-track>
+    <ts-track title="Historical">
+
+        <ts-source src="./media/1/HIS.wav"></ts-source>
+
+    </ts-track>
+    <ts-track title="Proposed">
+
+        <ts-source src="./media/1/ECAN.wav"></ts-source>
+
+    </ts-track> 
+</div> 
 [Listening more test examples samples](http://research.spa.aalto.fi/publications/papers/icassp22-denoising/)
 
 
