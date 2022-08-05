@@ -8,7 +8,7 @@ In this work, we address the long-standing problem of automatic music denoising.
 width="1000px"></p>
 
 ## Demo Video
-Watch the [demo video](http://research.spa.aalto.fi/publications/papers/icassp22-denoising/). 
+Watch the [demo video](https://youfiles.herokuapp.com/videodictionary/?m=Video_Player_Drive&state=%7B%22ids%22:%5B%221a_orDlQuxdL3N9SXs_wPHapoQd31r59V%22%5D,%22action%22:%22open%22,%22resourceKeys%22:%7B%7D%7D). 
 <p align="center">
 <img src="image/demo.png" alt="Schema represention"
 width="600px"></p>
