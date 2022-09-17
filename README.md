@@ -8,7 +8,7 @@ In this work, we address the long-standing problem of automatic music denoising.
 width="1000px"></p>
 
 ## Demo Video
-Watch the [demo video](https://www.kaggle.com/datasets/slliukaggle/musicecan-demo). 
+Watch the [demo video](https://www.kaggle.com/datasets/slliukaggle/musicecan). 
 <p align="center">
 <img src="image/demo.png" alt="Schema represention"
 width="600px"></p>
