@@ -10,7 +10,7 @@ width="1000px"></p>
 ## Demo Video
 Watch the [demo video](https://www.kaggle.com/datasets/shulinliu/musicecan-demo). 
 <p align="center">
-<img src="image/demo.png" alt="Schema represention"
+<img src="image/github.png" alt="Schema represention"
 width="600px"></p>
 
 ## Denoising Recordings
