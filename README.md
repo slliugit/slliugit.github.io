@@ -4,7 +4,7 @@
 In this work, we address the long-standing problem of automatic recorded music denoising. Previous audio denoising works focus on speech focused on speech primarily instead of music, neglecting the scenario of amateur music recording. To this end, we first propose MusicECAN, an automatic recorded music denoising network designed to enhance the quality of recorded music. The novel architecture comprises two key components, namely a feature learning module and a noise filtering module, which can model, refine and denoise the noisy input efficiently yet effectively. Specifically, in order to capture sufficient noisy music information, an ECA-U-SAM based feature learning module is designed by introducing an Efficient Channel Attention (ECA) mechanism in traditional U-net with a Supervised Attention Module (SAM). For the training of our MusicECAN, we collect M&N, a dataset containing various recordings of clean music and noise. Through the combination of different clean and noise recording pairs, we can effectively simulate possible environments of music performances with different background noise. Extensive quantitative and qualitative comparisons demonstrate that our MusicECAN outperforms the state-of-the-art audio denoising methods.
 
 <p align="center">
-<img src="image/flow.png" alt="Schema represention"
+<img src="image/fig5.png" alt="Schema represention"
 width="1000px"></p>
 
 ## Demo Video
@@ -39,7 +39,7 @@ For noise data, we collect totally 1000 seconds of noise recordings in wav forma
 <a href="data/noise_metadata.csv">Download noise recording recordings metadata</a>
 
 <p align="center">
-<img src="image/dataset.png" alt="distribution" 
+<img src="image/fig3.png" alt="distribution" 
 width="1000px"></p>
 
 
