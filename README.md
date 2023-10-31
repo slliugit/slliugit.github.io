@@ -38,9 +38,9 @@ For noise data, we collect totally 1000 seconds of noise recordings in wav forma
 
 * Stationary noise: Recordings of random noise for which the probability that the noise voltage lies within any given interval does not change with time, such as white noise.</li></p>
 
-<a href="data/noise_metadata.csv">Download noise recording recordings metadata</a>
+<a href="data/Noise recording metadata.csv">Download noise recording recordings metadata</a>
 
-[Download noise recordings](https://github.com/facebookresearch/FAIR-Play)</a>
+[Download noise recordings](https://drive.google.com/file/d/1trm8f7QXvECjfTmrACwT_I9ox951ZbhL/view?usp=sharing)</a>
 
 <p align="center">
 <img src="image/fig3.png" alt="distribution" 
