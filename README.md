@@ -18,11 +18,13 @@ width="600px"></p>
 ## M&N: A music dataset for denoising music recordings in wild
 We introduce a dataset M&N, which can effectively meet the requirements of music denoising for recordings in the wild. The dataset comprises various videos and recordings of clean music and noise assembled from free sound effects website and existing cross-modal audio generation dataset [FAIR-PLAY](https://github.com/facebookresearch/FAIR-Play). For video data, we separate the visual and audio tracks of the video. We anticipate that the dataset will be useful for denoising task and also serve as ground-truth for evaluating performances.
 
-For music data, we collect totally 3.43 hours of clean music recordings in wav format with a sampling rate of 44.1 kHz and bit depth of 16 bits, mono channel. There are 9 categories of music recordings: piano, drum kit, harp, cello, Chinese lute, trumpet, Chinese zither, multi-instrument and song.</p>
+For music data, we collect totally 3.43 hours of clean music recordings in wav format with a sampling rate of 44.1 kHz and bit depth of 16 bits, mono channel. There are 9 categories of music recordings: piano, drum kit, harp, cello, Chinese lute, trumpet, Chinese zither, multi-instrument and song.</p> 
 
-<a href="data/clean_music_metadata.csv">Download clean music recordings metadata</a>
+<a href="data/Clean music recording metadata.csv">Download clean music recordings metadata</a>
 
-[Download clean music recordings except from FAIR-PLAY](https://github.com/facebookresearch/FAIR-Play)</a>
+[Download clean music recordings except from FAIR-PLAY]([data/Clean music recording metadata.csv](https://github.com/facebookresearch/FAIR-Play)</a>
+
+It is worth noting that the clean music recordings we provide here are each 10 seconds long to ensure that researchers who need them can crop them to different lengths, such as five seconds, as needed.
 
 For noise data, we collect totally 1000 seconds of noise recordings in wav format with a sampling rate of 44.1 kHz. According to audio content, the noise data is divided into five categories: 
 
