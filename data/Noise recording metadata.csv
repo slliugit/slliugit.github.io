@@ -1,0 +1,43 @@
+Type,Audio,Duration(mm:ss),Source
+Electrical noise,000001.wav,0:30,GRN
+Electrical noise,000002.wav,0:30,GRN
+Electrical noise,000003.wav,0:10,GRN
+Electrical noise,000004.wav,0:30,GRN
+Electrical noise,000005.wav,0:05,free sound effects website
+Electrical noise,000006.wav,0:05,free sound effects website
+Electrical noise,000007.wav,0:26,free sound effects website
+Electrical noise,000008.wav,0:04,free sound effects website
+Electrical noise,000009.wav,0:10,free sound effects website
+Electrical noise,000010.wav,0:09,free sound effects website
+Electrical noise,000011.wav,0:11,free sound effects website
+Crowd noise,000012.wav,0:29,free sound effects website
+Crowd noise,000013.wav,0:09,free sound effects website
+Crowd noise,000014.wav,0:24,free sound effects website
+Crowd noise,000015.wav,0:08,free sound effects website
+Crowd noise,000016.wav,0:30,free sound effects website
+Crowd noise,000017.wav,0:30,free sound effects website
+Crowd noise,000018.wav,0:10,DEMAND-OMEETING-ch03
+Crowd noise,000019.wav,0:30,free sound effects website
+Crowd noise,000020.wav,0:30,free sound effects website
+Weather noise,000021.wav,0:10,DEMAND-NRIVER-ch16
+Weather noise,000022.wav,0:30,DEMAND-NRIVER-ch01
+Weather noise,000023.wav,0:30,free sound effects website
+Weather noise,000024.wav,0:07,free sound effects website
+Weather noise,000025.wav,0:03,free sound effects website
+Weather noise,000026.wav,0:30,free sound effects website
+Weather noise,000027.wav,0:30,DEMAND-NPARK-ch16
+Weather noise,000028.wav,0:30,DEMAND-NFIELD-ch05
+Weather noise,000029.wav,0:30,free sound effects website
+Traffic noise,000030.wav,0:30,DEMAND-STRAFFIC-ch01
+Traffic noise,000031.wav,0:30,DEMAND-STRAFFIC-ch14
+Traffic noise,000032.wav,0:30,DEMAND-TBUS-ch02
+Traffic noise,000033.wav,0:16,free sound effects website
+Traffic noise,000034.wav,0:04,free sound effects website
+Traffic noise,000035.wav,0:06,free sound effects website
+Traffic noise,000036.wav,0:30,free sound effects website
+Traffic noise,000037.wav,0:24,free sound effects website
+Traffic noise,000038.wav,0:30,DEMAND-PSTASION-ch02
+Stationary noise,000039.wav,0:30,free sound effects website
+Stationary noise,000040.wav,0:30,free sound effects website
+Stationary noise,000041.wav,0:30,free sound effects website
+Stationary noise,000042.wav,1:50,NoiseX-92
