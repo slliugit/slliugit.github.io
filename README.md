@@ -22,7 +22,7 @@ For music data, we collect totally 3.43 hours of clean music recordings in wav f
 
 <a href="data/Clean music recording metadata.csv">Download clean music recordings metadata</a>
 
-[Download clean music recordings except from FAIR-PLAY](https://github.com/facebookresearch/FAIR-Play)</a>
+[Download clean music recordings except from FAIR-PLAY](https://drive.google.com/drive/folders/1fXKJZX_IgZguZEm1Gi7Q1-iOZSO7MFGt?usp=drive_link)</a>
 
 It is worth noting that the clean music recordings we provide here are each 10 seconds long to ensure that researchers who need them can crop them to different lengths, such as five seconds, as needed.
 
