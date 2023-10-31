@@ -20,6 +20,10 @@ We introduce a dataset M&N, which can effectively meet the requirements of music
 
 For music data, we collect totally 3.43 hours of clean music recordings in wav format with a sampling rate of 44.1 kHz and bit depth of 16 bits, mono channel. There are 9 categories of music recordings: piano, drum kit, harp, cello, Chinese lute, trumpet, Chinese zither, multi-instrument and song.</p>
 
+<a href="data/clean_music_metadata.csv">Download clean music recordings metadata</a>
+
+[Download clean music recordings except from FAIR-PLAY](https://github.com/facebookresearch/FAIR-Play)</a>
+
 For noise data, we collect totally 1000 seconds of noise recordings in wav format with a sampling rate of 44.1 kHz. According to audio content, the noise data is divided into five categories: 
 
 * Electrical noise: Recordings of electrical circuit noise such as clicking, hissing noise and crackling noise caused by the irregularities in the storage medium. This kind of noise often occurs when the user is recording music in a relatively quiet room while the device is malfunctioning.
@@ -31,10 +35,6 @@ For noise data, we collect totally 1000 seconds of noise recordings in wav forma
 * Traffic noise: Recordings include vehicle start-up sounds, road traffic sounds, motorcycle sounds, etc., which are used to simulate the traffic noise when the user is recording audio near the driveway.
 
 * Stationary noise: Recordings of random noise for which the probability that the noise voltage lies within any given interval does not change with time, such as white noise.</li></p>
-
-<a href="data/clean_music_metadata.csv">Download clean music recordings metadata</a>
-
-[Download clean music recordings except from FAIR-PLAY](https://github.com/facebookresearch/FAIR-Play)</a>
 
 <a href="data/noise_metadata.csv">Download noise recording recordings metadata</a>
 
