@@ -1,0 +1,1236 @@
+Audio,Type,Split,Source
+000001.wav,Piano,train,Fair-Play
+000003.wav,Multi-instrument,train,Fair-Play
+000004.wav,Harp,train,Fair-Play
+000006.wav,Piano,train,Fair-Play
+000008.wav,Multi-instrument,train,Fair-Play
+000009.wav,Piano,train,Fair-Play
+000010.wav,Multi-instrument,train,Fair-Play
+000011.wav,Harp,test,Fair-Play
+000012.wav,Multi-instrument,train,Fair-Play
+000013.wav,Multi-instrument,train,Fair-Play
+000014.wav,Song,train,Fair-Play
+000015.wav,Piano,train,Fair-Play
+000016.wav,Multi-instrument,train,Fair-Play
+000017.wav,Piano,train,Fair-Play
+000018.wav,Song,train,Fair-Play
+000019.wav,Song,train,Fair-Play
+000021.wav,Piano,train,Fair-Play
+000022.wav,Song,test,Fair-Play
+000023.wav,Piano,train,Fair-Play
+000024.wav,Drum kit,train,Fair-Play
+000025.wav,Song,train,Fair-Play
+000026.wav,Drum kit,train,Fair-Play
+000027.wav,Trumpet,train,Fair-Play
+000028.wav,Piano,train,Fair-Play
+000029.wav,Piano,train,Fair-Play
+000030.wav,Multi-instrument,train,Fair-Play
+000031.wav,Piano,train,Fair-Play
+000032.wav,Trumpet,train,Fair-Play
+000034.wav,Multi-instrument,train,Fair-Play
+000037.wav,Multi-instrument,train,Fair-Play
+000039.wav,Multi-instrument,train,Fair-Play
+000041.wav,Drum kit,train,Fair-Play
+000042.wav,Piano,train,Fair-Play
+000043.wav,Piano,train,Fair-Play
+000044.wav,Multi-instrument,train,Fair-Play
+000046.wav,Piano,train,Fair-Play
+000053.wav,Piano,train,Fair-Play
+000055.wav,Piano,train,Fair-Play
+000056.wav,Piano,train,Fair-Play
+000058.wav,Song,train,Fair-Play
+000060.wav,Harp,train,Fair-Play
+000066.wav,Piano,train,Fair-Play
+000069.wav,Multi-instrument,train,Fair-Play
+000070.wav,Drum kit,train,Fair-Play
+000072.wav,Song,train,Fair-Play
+000074.wav,Song,train,Fair-Play
+000076.wav,Multi-instrument,train,Fair-Play
+000077.wav,Harp,train,Fair-Play
+000078.wav,Multi-instrument,train,Fair-Play
+000079.wav,Piano,train,Fair-Play
+000080.wav,Trumpet,test,Fair-Play
+000082.wav,Piano,train,Fair-Play
+000084.wav,Piano,train,Fair-Play
+000085.wav,Song,train,Fair-Play
+000087.wav,Multi-instrument,train,Fair-Play
+000091.wav,Drum kit,train,Fair-Play
+000093.wav,Multi-instrument,train,Fair-Play
+000096.wav,Piano,train,Fair-Play
+000097.wav,Drum kit,test,Fair-Play
+000098.wav,Multi-instrument,train,Fair-Play
+000099.wav,Trumpet,test,Fair-Play
+000100.wav,Piano,train,Fair-Play
+000102.wav,Song,train,Fair-Play
+000103.wav,Multi-instrument,train,Fair-Play
+000104.wav,Song,train,Fair-Play
+000105.wav,Drum kit,train,Fair-Play
+000108.wav,Piano,train,Fair-Play
+000109.wav,Cello,test,Fair-Play
+000110.wav,Piano,val,Fair-Play
+000111.wav,Harp,train,Fair-Play
+000112.wav,Piano,train,Fair-Play
+000114.wav,Cello,train,Fair-Play
+000117.wav,Cello,train,Fair-Play
+000118.wav,Piano,train,Fair-Play
+000121.wav,Piano,train,Fair-Play
+000122.wav,Piano,train,Fair-Play
+000123.wav,Piano,train,Fair-Play
+000125.wav,Harp,train,Fair-Play
+000126.wav,Harp,train,Fair-Play
+000127.wav,Harp,train,Fair-Play
+000128.wav,Multi-instrument,train,Fair-Play
+000130.wav,Harp,train,Fair-Play
+000131.wav,Piano,train,Fair-Play
+000132.wav,Song,train,Fair-Play
+000133.wav,Multi-instrument,train,Fair-Play
+000135.wav,Drum kit,train,Fair-Play
+000136.wav,Song,val,Fair-Play
+000137.wav,Multi-instrument,train,Fair-Play
+000139.wav,Multi-instrument,train,Fair-Play
+000140.wav,Piano,train,Fair-Play
+000141.wav,Multi-instrument,train,Fair-Play
+000143.wav,Drum kit,train,Fair-Play
+000147.wav,Cello,train,Fair-Play
+000150.wav,Cello,train,Fair-Play
+000151.wav,Piano,train,Fair-Play
+000153.wav,Harp,test,Fair-Play
+000154.wav,Piano,train,Fair-Play
+000155.wav,Multi-instrument,val,Fair-Play
+000157.wav,Piano,val,Fair-Play
+000158.wav,Piano,train,Fair-Play
+000162.wav,Song,test,Fair-Play
+000163.wav,Drum kit,train,Fair-Play
+000164.wav,Piano,train,Fair-Play
+000166.wav,Cello,train,Fair-Play
+000168.wav,Multi-instrument,train,Fair-Play
+000170.wav,Piano,train,Fair-Play
+000171.wav,Piano,train,Fair-Play
+000172.wav,Multi-instrument,train,Fair-Play
+000173.wav,Multi-instrument,train,Fair-Play
+000174.wav,Multi-instrument,train,Fair-Play
+000175.wav,Piano,train,Fair-Play
+000176.wav,Piano,train,Fair-Play
+000177.wav,Piano,train,Fair-Play
+000179.wav,Piano,train,Fair-Play
+000181.wav,Harp,train,Fair-Play
+000183.wav,Multi-instrument,train,Fair-Play
+000184.wav,Harp,train,Fair-Play
+000185.wav,Multi-instrument,train,Fair-Play
+000186.wav,Drum kit,train,Fair-Play
+000187.wav,Song,train,Fair-Play
+000190.wav,Song,train,Fair-Play
+000191.wav,Piano,train,Fair-Play
+000194.wav,Song,train,Fair-Play
+000197.wav,Piano,train,Fair-Play
+000198.wav,Piano,train,Fair-Play
+000199.wav,Piano,train,Fair-Play
+000200.wav,Piano,train,Fair-Play
+000205.wav,Trumpet,train,Fair-Play
+000206.wav,Piano,train,Fair-Play
+000207.wav,Piano,train,Fair-Play
+000208.wav,Trumpet,test,Fair-Play
+000210.wav,Trumpet,train,Fair-Play
+000211.wav,Drum kit,test,Fair-Play
+000212.wav,Drum kit,val,Fair-Play
+000214.wav,Drum kit,train,Fair-Play
+000215.wav,Song,train,Fair-Play
+000216.wav,Cello,train,Fair-Play
+000217.wav,Song,train,Fair-Play
+000220.wav,Song,val,Fair-Play
+000221.wav,Multi-instrument,train,Fair-Play
+000222.wav,Multi-instrument,train,Fair-Play
+000223.wav,Piano,train,Fair-Play
+000225.wav,Piano,val,Fair-Play
+000226.wav,Piano,train,Fair-Play
+000227.wav,Piano,test,Fair-Play
+000228.wav,Piano,val,Fair-Play
+000229.wav,Song,train,Fair-Play
+000230.wav,Piano,train,Fair-Play
+000231.wav,Cello,train,Fair-Play
+000232.wav,Drum kit,train,Fair-Play
+000233.wav,Piano,train,Fair-Play
+000235.wav,Drum kit,train,Fair-Play
+000237.wav,Multi-instrument,train,Fair-Play
+000238.wav,Piano,train,Fair-Play
+000239.wav,Song,train,Fair-Play
+000241.wav,Multi-instrument,val,Fair-Play
+000245.wav,Piano,test,Fair-Play
+000247.wav,Piano,train,Fair-Play
+000248.wav,Harp,train,Fair-Play
+000251.wav,Multi-instrument,val,Fair-Play
+000253.wav,Multi-instrument,train,Fair-Play
+000254.wav,Cello,train,Fair-Play
+000255.wav,Drum kit,train,Fair-Play
+000257.wav,Harp,train,Fair-Play
+000259.wav,Multi-instrument,train,Fair-Play
+000260.wav,Piano,train,Fair-Play
+000264.wav,Harp,train,Fair-Play
+000266.wav,Song,train,Fair-Play
+000269.wav,Song,val,Fair-Play
+000270.wav,Song,train,Fair-Play
+000271.wav,Cello,train,Fair-Play
+000273.wav,Piano,test,Fair-Play
+000276.wav,Piano,train,Fair-Play
+000277.wav,Piano,val,Fair-Play
+000278.wav,Piano,train,Fair-Play
+000279.wav,Multi-instrument,train,Fair-Play
+000280.wav,Song,train,Fair-Play
+000282.wav,Multi-instrument,val,Fair-Play
+000284.wav,Multi-instrument,train,Fair-Play
+000285.wav,Song,val,Fair-Play
+000286.wav,Harp,train,Fair-Play
+000287.wav,Piano,train,Fair-Play
+000288.wav,Drum kit,train,Fair-Play
+000290.wav,Piano,train,Fair-Play
+000291.wav,Cello,train,Fair-Play
+000294.wav,Trumpet,val,Fair-Play
+000295.wav,Drum kit,train,Fair-Play
+000296.wav,Song,train,Fair-Play
+000298.wav,Piano,train,Fair-Play
+000299.wav,Multi-instrument,train,Fair-Play
+000301.wav,Piano,train,Fair-Play
+000305.wav,Harp,val,Fair-Play
+000306.wav,Piano,train,Fair-Play
+000308.wav,Multi-instrument,val,Fair-Play
+000310.wav,Song,train,Fair-Play
+000312.wav,Multi-instrument,train,Fair-Play
+000316.wav,Song,train,Fair-Play
+000318.wav,Song,train,Fair-Play
+000319.wav,Piano,test,Fair-Play
+000322.wav,Piano,train,Fair-Play
+000323.wav,Piano,train,Fair-Play
+000327.wav,Song,train,Fair-Play
+000328.wav,Piano,train,Fair-Play
+000329.wav,Multi-instrument,train,Fair-Play
+000330.wav,Piano,train,Fair-Play
+000333.wav,Multi-instrument,train,Fair-Play
+000336.wav,Drum kit,train,Fair-Play
+000337.wav,Song,train,Fair-Play
+000339.wav,Multi-instrument,train,Fair-Play
+000340.wav,Piano,train,Fair-Play
+000342.wav,Piano,train,Fair-Play
+000343.wav,Harp,train,Fair-Play
+000346.wav,Drum kit,train,Fair-Play
+000347.wav,Piano,train,Fair-Play
+000348.wav,Harp,val,Fair-Play
+000349.wav,Song,val,Fair-Play
+000350.wav,Song,train,Fair-Play
+000352.wav,Harp,train,Fair-Play
+000354.wav,Song,train,Fair-Play
+000356.wav,Multi-instrument,train,Fair-Play
+000357.wav,Harp,train,Fair-Play
+000359.wav,Piano,train,Fair-Play
+000361.wav,Piano,test,Fair-Play
+000362.wav,Multi-instrument,train,Fair-Play
+000363.wav,Song,test,Fair-Play
+000364.wav,Multi-instrument,train,Fair-Play
+000365.wav,Harp,train,Fair-Play
+000369.wav,Piano,train,Fair-Play
+000376.wav,Piano,train,Fair-Play
+000377.wav,Multi-instrument,test,Fair-Play
+000378.wav,Piano,val,Fair-Play
+000379.wav,Piano,train,Fair-Play
+000380.wav,Piano,train,Fair-Play
+000381.wav,Drum kit,train,Fair-Play
+000382.wav,Drum kit,train,Fair-Play
+000383.wav,Song,train,Fair-Play
+000384.wav,Piano,train,Fair-Play
+000386.wav,Song,train,Fair-Play
+000389.wav,Trumpet,test,Fair-Play
+000394.wav,Piano,train,Fair-Play
+000398.wav,Drum kit,train,Fair-Play
+000400.wav,Multi-instrument,train,Fair-Play
+000402.wav,Multi-instrument,train,Fair-Play
+000405.wav,Piano,train,Fair-Play
+000406.wav,Multi-instrument,train,Fair-Play
+000407.wav,Drum kit,train,Fair-Play
+000410.wav,Multi-instrument,train,Fair-Play
+000411.wav,Multi-instrument,train,Fair-Play
+000412.wav,Piano,train,Fair-Play
+000413.wav,Piano,test,Fair-Play
+000414.wav,Harp,val,Fair-Play
+000415.wav,Drum kit,train,Fair-Play
+000417.wav,Song,val,Fair-Play
+000418.wav,Song,train,Fair-Play
+000419.wav,Piano,train,Fair-Play
+000422.wav,Piano,test,Fair-Play
+000424.wav,Multi-instrument,train,Fair-Play
+000425.wav,Drum kit,train,Fair-Play
+000428.wav,Drum kit,train,Fair-Play
+000429.wav,Multi-instrument,train,Fair-Play
+000431.wav,Multi-instrument,train,Fair-Play
+000433.wav,Multi-instrument,train,Fair-Play
+000434.wav,Drum kit,train,Fair-Play
+000435.wav,Multi-instrument,train,Fair-Play
+000437.wav,Song,test,Fair-Play
+000439.wav,Piano,test,Fair-Play
+000440.wav,Drum kit,train,Fair-Play
+000441.wav,Piano,train,Fair-Play
+000442.wav,Harp,train,Fair-Play
+000444.wav,Piano,train,Fair-Play
+000445.wav,Piano,train,Fair-Play
+000447.wav,Piano,train,Fair-Play
+000448.wav,Piano,train,Fair-Play
+000449.wav,Harp,train,Fair-Play
+000452.wav,Piano,test,Fair-Play
+000454.wav,Piano,train,Fair-Play
+000455.wav,Drum kit,train,Fair-Play
+000457.wav,Multi-instrument,train,Fair-Play
+000459.wav,Trumpet,train,Fair-Play
+000461.wav,Piano,val,Fair-Play
+000463.wav,Piano,train,Fair-Play
+000466.wav,Piano,test,Fair-Play
+000468.wav,Song,train,Fair-Play
+000470.wav,Song,train,Fair-Play
+000471.wav,Song,train,Fair-Play
+000472.wav,Multi-instrument,train,Fair-Play
+000473.wav,Multi-instrument,train,Fair-Play
+000474.wav,Piano,val,Fair-Play
+000475.wav,Cello,train,Fair-Play
+000478.wav,Piano,test,Fair-Play
+000480.wav,Piano,train,Fair-Play
+000481.wav,Cello,val,Fair-Play
+000484.wav,Multi-instrument,val,Fair-Play
+000492.wav,Song,train,Fair-Play
+000493.wav,Piano,train,Fair-Play
+000494.wav,Piano,val,Fair-Play
+000495.wav,Song,train,Fair-Play
+000496.wav,Song,train,Fair-Play
+000499.wav,Piano,train,Fair-Play
+000500.wav,Piano,val,Fair-Play
+000502.wav,Piano,train,Fair-Play
+000505.wav,Song,train,Fair-Play
+000508.wav,Trumpet,train,Fair-Play
+000510.wav,Song,val,Fair-Play
+000512.wav,Harp,train,Fair-Play
+000516.wav,Song,val,Fair-Play
+000519.wav,Song,train,Fair-Play
+000520.wav,Drum kit,train,Fair-Play
+000525.wav,Piano,train,Fair-Play
+000526.wav,Piano,train,Fair-Play
+000527.wav,Multi-instrument,train,Fair-Play
+000528.wav,Song,train,Fair-Play
+000529.wav,Trumpet,train,Fair-Play
+000531.wav,Harp,train,Fair-Play
+000532.wav,Song,val,Fair-Play
+000536.wav,Multi-instrument,train,Fair-Play
+000540.wav,Piano,train,Fair-Play
+000541.wav,Multi-instrument,train,Fair-Play
+000542.wav,Harp,train,Fair-Play
+000543.wav,Song,train,Fair-Play
+000546.wav,Piano,train,Fair-Play
+000547.wav,Drum kit,train,Fair-Play
+000548.wav,Piano,train,Fair-Play
+000550.wav,Piano,train,Fair-Play
+000555.wav,Multi-instrument,train,Fair-Play
+000559.wav,Drum kit,train,Fair-Play
+000564.wav,Cello,train,Fair-Play
+000569.wav,Song,val,Fair-Play
+000571.wav,Piano,train,Fair-Play
+000572.wav,Song,val,Fair-Play
+000573.wav,Multi-instrument,train,Fair-Play
+000574.wav,Multi-instrument,train,Fair-Play
+000576.wav,Harp,train,Fair-Play
+000577.wav,Piano,train,Fair-Play
+000578.wav,Drum kit,train,Fair-Play
+000579.wav,Piano,train,Fair-Play
+000581.wav,Drum kit,val,Fair-Play
+000582.wav,Piano,train,Fair-Play
+000585.wav,Song,train,Fair-Play
+000586.wav,Piano,train,Fair-Play
+000587.wav,Piano,train,Fair-Play
+000588.wav,Song,train,Fair-Play
+000590.wav,Drum kit,train,Fair-Play
+000591.wav,Piano,train,Fair-Play
+000593.wav,Cello,train,Fair-Play
+000594.wav,Piano,train,Fair-Play
+000595.wav,Piano,train,Fair-Play
+000596.wav,Song,train,Fair-Play
+000597.wav,Drum kit,train,Fair-Play
+000598.wav,Piano,train,Fair-Play
+000599.wav,Multi-instrument,train,Fair-Play
+000600.wav,Piano,train,Fair-Play
+000601.wav,Multi-instrument,train,Fair-Play
+000602.wav,Piano,train,Fair-Play
+000603.wav,Song,train,Fair-Play
+000604.wav,Piano,train,Fair-Play
+000606.wav,Multi-instrument,train,Fair-Play
+000607.wav,Cello,train,Fair-Play
+000608.wav,Piano,val,Fair-Play
+000611.wav,Piano,train,Fair-Play
+000613.wav,Piano,train,Fair-Play
+000614.wav,Song,train,Fair-Play
+000615.wav,Piano,train,Fair-Play
+000616.wav,Drum kit,train,Fair-Play
+000619.wav,Drum kit,train,Fair-Play
+000622.wav,Piano,train,Fair-Play
+000623.wav,Trumpet,train,Fair-Play
+000624.wav,Piano,test,Fair-Play
+000628.wav,Trumpet,train,Fair-Play
+000630.wav,Drum kit,train,Fair-Play
+000631.wav,Harp,train,Fair-Play
+000632.wav,Piano,train,Fair-Play
+000634.wav,Song,train,Fair-Play
+000636.wav,Song,train,Fair-Play
+000639.wav,Piano,test,Fair-Play
+000645.wav,Cello,train,Fair-Play
+000646.wav,Piano,train,Fair-Play
+000648.wav,Multi-instrument,train,Fair-Play
+000649.wav,Song,train,Fair-Play
+000651.wav,Drum kit,train,Fair-Play
+000653.wav,Piano,train,Fair-Play
+000654.wav,Multi-instrument,train,Fair-Play
+000655.wav,Piano,train,Fair-Play
+000660.wav,Piano,train,Fair-Play
+000661.wav,Multi-instrument,train,Fair-Play
+000662.wav,Song,train,Fair-Play
+000665.wav,Song,val,Fair-Play
+000666.wav,Drum kit,train,Fair-Play
+000668.wav,Piano,train,Fair-Play
+000669.wav,Piano,val,Fair-Play
+000670.wav,Piano,train,Fair-Play
+000675.wav,Drum kit,train,Fair-Play
+000677.wav,Multi-instrument,test,Fair-Play
+000678.wav,Song,train,Fair-Play
+000680.wav,Song,train,Fair-Play
+000682.wav,Piano,train,Fair-Play
+000684.wav,Piano,train,Fair-Play
+000685.wav,Song,train,Fair-Play
+000687.wav,Piano,train,Fair-Play
+000689.wav,Piano,train,Fair-Play
+000690.wav,Piano,train,Fair-Play
+000692.wav,Drum kit,train,Fair-Play
+000693.wav,Multi-instrument,train,Fair-Play
+000694.wav,Piano,train,Fair-Play
+000696.wav,Piano,train,Fair-Play
+000699.wav,Piano,train,Fair-Play
+000701.wav,Multi-instrument,train,Fair-Play
+000702.wav,Multi-instrument,train,Fair-Play
+000705.wav,Drum kit,train,Fair-Play
+000707.wav,Piano,train,Fair-Play
+000708.wav,Piano,train,Fair-Play
+000709.wav,Song,val,Fair-Play
+000712.wav,Multi-instrument,train,Fair-Play
+000713.wav,Piano,train,Fair-Play
+000715.wav,Multi-instrument,test,Fair-Play
+000716.wav,Harp,train,Fair-Play
+000723.wav,Song,train,Fair-Play
+000724.wav,Cello,train,Fair-Play
+000727.wav,Piano,train,Fair-Play
+000729.wav,Drum kit,train,Fair-Play
+000730.wav,Trumpet,train,Fair-Play
+000731.wav,Song,train,Fair-Play
+000732.wav,Piano,train,Fair-Play
+000733.wav,Song,train,Fair-Play
+000734.wav,Piano,test,Fair-Play
+000735.wav,Multi-instrument,val,Fair-Play
+000739.wav,Multi-instrument,train,Fair-Play
+000740.wav,Multi-instrument,train,Fair-Play
+000741.wav,Song,train,Fair-Play
+000743.wav,Song,train,Fair-Play
+000745.wav,Piano,train,Fair-Play
+000747.wav,Piano,train,Fair-Play
+000749.wav,Song,train,Fair-Play
+000750.wav,Piano,val,Fair-Play
+000751.wav,Multi-instrument,train,Fair-Play
+000753.wav,Piano,train,Fair-Play
+000754.wav,Piano,test,Fair-Play
+000758.wav,Multi-instrument,val,Fair-Play
+000763.wav,Song,train,Fair-Play
+000764.wav,Song,train,Fair-Play
+000766.wav,Harp,train,Fair-Play
+000767.wav,Drum kit,train,Fair-Play
+000768.wav,Piano,train,Fair-Play
+000770.wav,Piano,train,Fair-Play
+000771.wav,Multi-instrument,train,Fair-Play
+000774.wav,Piano,train,Fair-Play
+000775.wav,Piano,train,Fair-Play
+000777.wav,Piano,train,Fair-Play
+000782.wav,Song,train,Fair-Play
+000783.wav,Piano,test,Fair-Play
+000784.wav,Piano,train,Fair-Play
+000787.wav,Multi-instrument,train,Fair-Play
+000788.wav,Harp,train,Fair-Play
+000789.wav,Harp,val,Fair-Play
+000791.wav,Piano,train,Fair-Play
+000792.wav,Multi-instrument,train,Fair-Play
+000794.wav,Drum kit,train,Fair-Play
+000795.wav,Drum kit,train,Fair-Play
+000796.wav,Piano,train,Fair-Play
+000798.wav,Piano,train,Fair-Play
+000799.wav,Piano,train,Fair-Play
+000800.wav,Piano,train,Fair-Play
+000805.wav,Multi-instrument,train,Fair-Play
+000809.wav,Piano,test,Fair-Play
+000810.wav,Piano,test,Fair-Play
+000815.wav,Drum kit,train,Fair-Play
+000816.wav,Piano,train,Fair-Play
+000817.wav,Piano,train,Fair-Play
+000819.wav,Harp,train,Fair-Play
+000821.wav,Piano,train,Fair-Play
+000822.wav,Song,train,Fair-Play
+000825.wav,Drum kit,train,Fair-Play
+000827.wav,Piano,train,Fair-Play
+000830.wav,Song,train,Fair-Play
+000831.wav,Song,train,Fair-Play
+000832.wav,Multi-instrument,val,Fair-Play
+000840.wav,Piano,train,Fair-Play
+000841.wav,Song,train,Fair-Play
+000843.wav,Piano,train,Fair-Play
+000844.wav,Song,train,Fair-Play
+000845.wav,Piano,train,Fair-Play
+000847.wav,Song,train,Fair-Play
+000851.wav,Drum kit,train,Fair-Play
+000853.wav,Multi-instrument,val,Fair-Play
+000855.wav,Multi-instrument,train,Fair-Play
+000859.wav,Multi-instrument,train,Fair-Play
+000860.wav,Piano,train,Fair-Play
+000861.wav,Multi-instrument,test,Fair-Play
+000863.wav,Piano,train,Fair-Play
+000865.wav,Piano,test,Fair-Play
+000866.wav,Song,train,Fair-Play
+000868.wav,Piano,train,Fair-Play
+000871.wav,Piano,train,Fair-Play
+000874.wav,Multi-instrument,train,Fair-Play
+000875.wav,Multi-instrument,val,Fair-Play
+000877.wav,Multi-instrument,train,Fair-Play
+000878.wav,Drum kit,train,Fair-Play
+000882.wav,Cello,val,Fair-Play
+000883.wav,Multi-instrument,train,Fair-Play
+000884.wav,Harp,train,Fair-Play
+000885.wav,Piano,train,Fair-Play
+000891.wav,Multi-instrument,train,Fair-Play
+000892.wav,Piano,train,Fair-Play
+000893.wav,Song,train,Fair-Play
+000895.wav,Piano,train,Fair-Play
+000897.wav,Piano,train,Fair-Play
+000900.wav,Harp,train,Fair-Play
+000901.wav,Song,val,Fair-Play
+000903.wav,Harp,val,Fair-Play
+000904.wav,Cello,train,Fair-Play
+000907.wav,Multi-instrument,train,Fair-Play
+000908.wav,Piano,train,Fair-Play
+000910.wav,Multi-instrument,train,Fair-Play
+000912.wav,Piano,train,Fair-Play
+000915.wav,Song,train,Fair-Play
+000917.wav,Piano,train,Fair-Play
+000918.wav,Piano,train,Fair-Play
+000919.wav,Multi-instrument,train,Fair-Play
+000920.wav,Song,train,Fair-Play
+000922.wav,Piano,train,Fair-Play
+000924.wav,Song,train,Fair-Play
+000925.wav,Piano,train,Fair-Play
+000926.wav,Cello,train,Fair-Play
+000928.wav,Piano,train,Fair-Play
+000929.wav,Drum kit,train,Fair-Play
+000931.wav,Harp,train,Fair-Play
+000932.wav,Piano,train,Fair-Play
+000933.wav,Cello,train,Fair-Play
+000934.wav,Drum kit,train,Fair-Play
+000935.wav,Cello,train,Fair-Play
+000936.wav,Multi-instrument,train,Fair-Play
+000937.wav,Multi-instrument,train,Fair-Play
+000939.wav,Piano,val,Fair-Play
+000942.wav,Song,train,Fair-Play
+000944.wav,Song,train,Fair-Play
+000945.wav,Piano,train,Fair-Play
+000946.wav,Piano,train,Fair-Play
+000947.wav,Multi-instrument,train,Fair-Play
+000949.wav,Multi-instrument,train,Fair-Play
+000950.wav,Cello,test,Fair-Play
+000953.wav,Drum kit,train,Fair-Play
+000954.wav,Piano,train,Fair-Play
+000955.wav,Multi-instrument,train,Fair-Play
+000956.wav,Drum kit,train,Fair-Play
+000957.wav,Piano,train,Fair-Play
+000958.wav,Piano,train,Fair-Play
+000959.wav,Song,train,Fair-Play
+000962.wav,Drum kit,train,Fair-Play
+000964.wav,Song,train,Fair-Play
+000965.wav,Piano,train,Fair-Play
+000966.wav,Song,val,Fair-Play
+000971.wav,Piano,train,Fair-Play
+000972.wav,Drum kit,train,Fair-Play
+000974.wav,Cello,train,Fair-Play
+000976.wav,Harp,train,Fair-Play
+000978.wav,Piano,train,Fair-Play
+000979.wav,Piano,train,Fair-Play
+000981.wav,Multi-instrument,train,Fair-Play
+000982.wav,Piano,train,Fair-Play
+000984.wav,Harp,train,Fair-Play
+000985.wav,Drum kit,train,Fair-Play
+000990.wav,Song,train,Fair-Play
+000991.wav,Drum kit,val,Fair-Play
+000992.wav,Multi-instrument,train,Fair-Play
+000994.wav,Piano,train,Fair-Play
+000997.wav,Piano,train,Fair-Play
+000998.wav,Cello,train,Fair-Play
+000999.wav,Cello,train,Fair-Play
+001003.wav,Harp,train,Fair-Play
+001005.wav,Harp,train,Fair-Play
+001006.wav,Piano,train,Fair-Play
+001007.wav,Piano,train,Fair-Play
+001010.wav,Drum kit,train,Fair-Play
+001014.wav,Piano,train,Fair-Play
+001020.wav,Multi-instrument,train,Fair-Play
+001022.wav,Piano,train,Fair-Play
+001023.wav,Song,train,Fair-Play
+001024.wav,Drum kit,train,Fair-Play
+001025.wav,Song,train,Fair-Play
+001026.wav,Song,train,Fair-Play
+001031.wav,Piano,train,Fair-Play
+001033.wav,Song,test,Fair-Play
+001040.wav,Piano,train,Fair-Play
+001044.wav,Piano,train,Fair-Play
+001047.wav,Cello,train,Fair-Play
+001048.wav,Multi-instrument,train,Fair-Play
+001049.wav,Piano,train,Fair-Play
+001050.wav,Harp,train,Fair-Play
+001053.wav,Drum kit,train,Fair-Play
+001054.wav,Cello,train,Fair-Play
+001055.wav,Piano,train,Fair-Play
+001056.wav,Piano,train,Fair-Play
+001059.wav,Song,train,Fair-Play
+001062.wav,Piano,test,Fair-Play
+001065.wav,Song,train,Fair-Play
+001066.wav,Piano,train,Fair-Play
+001069.wav,Drum kit,train,Fair-Play
+001070.wav,Trumpet,val,Fair-Play
+001074.wav,Piano,test,Fair-Play
+001075.wav,Piano,train,Fair-Play
+001078.wav,Multi-instrument,train,Fair-Play
+001079.wav,Piano,test,Fair-Play
+001080.wav,Piano,train,Fair-Play
+001081.wav,Song,train,Fair-Play
+001082.wav,Song,test,Fair-Play
+001084.wav,Song,train,Fair-Play
+001085.wav,Piano,train,Fair-Play
+001089.wav,Piano,train,Fair-Play
+001090.wav,Drum kit,train,Fair-Play
+001092.wav,Harp,train,Fair-Play
+001093.wav,Multi-instrument,val,Fair-Play
+001098.wav,Multi-instrument,val,Fair-Play
+001099.wav,Trumpet,train,Fair-Play
+001106.wav,Piano,train,Fair-Play
+001107.wav,Multi-instrument,train,Fair-Play
+001108.wav,Harp,train,Fair-Play
+001113.wav,Piano,train,Fair-Play
+001117.wav,Piano,test,Fair-Play
+001118.wav,Multi-instrument,test,Fair-Play
+001119.wav,Piano,train,Fair-Play
+001121.wav,Harp,train,Fair-Play
+001123.wav,Cello,train,Fair-Play
+001126.wav,Song,test,Fair-Play
+001127.wav,Song,train,Fair-Play
+001128.wav,Harp,train,Fair-Play
+001131.wav,Drum kit,train,Fair-Play
+001132.wav,Multi-instrument,train,Fair-Play
+001133.wav,Song,train,Fair-Play
+001134.wav,Song,train,Fair-Play
+001135.wav,Piano,train,Fair-Play
+001136.wav,Piano,train,Fair-Play
+001137.wav,Drum kit,train,Fair-Play
+001138.wav,Multi-instrument,train,Fair-Play
+001143.wav,Harp,train,Fair-Play
+001144.wav,Piano,val,Fair-Play
+001148.wav,Multi-instrument,train,Fair-Play
+001150.wav,Multi-instrument,train,Fair-Play
+001152.wav,Cello,train,Fair-Play
+001155.wav,Multi-instrument,train,Fair-Play
+001156.wav,Drum kit,train,Fair-Play
+001157.wav,Drum kit,train,Fair-Play
+001159.wav,Multi-instrument,train,Fair-Play
+001160.wav,Song,train,Fair-Play
+001161.wav,Harp,train,Fair-Play
+001164.wav,Drum kit,train,Fair-Play
+001165.wav,Piano,train,Fair-Play
+001166.wav,Multi-instrument,train,Fair-Play
+001172.wav,Multi-instrument,train,Fair-Play
+001173.wav,Piano,train,Fair-Play
+001174.wav,Harp,train,Fair-Play
+001176.wav,Song,train,Fair-Play
+001182.wav,Drum kit,train,Fair-Play
+001185.wav,Multi-instrument,train,Fair-Play
+001186.wav,Piano,train,Fair-Play
+001187.wav,Piano,train,Fair-Play
+001189.wav,Harp,train,Fair-Play
+001190.wav,Piano,train,Fair-Play
+001191.wav,Song,train,Fair-Play
+001192.wav,Piano,train,Fair-Play
+001195.wav,Cello,train,Fair-Play
+001199.wav,Cello,train,Fair-Play
+001201.wav,Cello,train,Fair-Play
+001204.wav,Piano,train,Fair-Play
+001207.wav,Multi-instrument,train,Fair-Play
+001209.wav,Piano,train,Fair-Play
+001210.wav,Trumpet,train,Fair-Play
+001213.wav,Piano,train,Fair-Play
+001215.wav,Harp,train,Fair-Play
+001216.wav,Piano,train,Fair-Play
+001218.wav,Multi-instrument,train,Fair-Play
+001222.wav,Piano,val,Fair-Play
+001224.wav,Piano,train,Fair-Play
+001225.wav,Piano,train,Fair-Play
+001226.wav,Piano,train,Fair-Play
+001227.wav,Piano,train,Fair-Play
+001236.wav,Cello,train,Fair-Play
+001237.wav,Piano,train,Fair-Play
+001242.wav,Piano,train,Fair-Play
+001243.wav,Harp,train,Fair-Play
+001250.wav,Piano,train,Fair-Play
+001252.wav,Drum kit,train,Fair-Play
+001253.wav,Piano,test,Fair-Play
+001256.wav,Drum kit,train,Fair-Play
+001258.wav,Multi-instrument,val,Fair-Play
+001265.wav,Piano,train,Fair-Play
+001283.wav,Drum kit,train,Fair-Play
+001291.wav,Piano,test,Fair-Play
+001293.wav,Cello,test,Fair-Play
+001294.wav,Piano,train,Fair-Play
+001295.wav,Piano,train,Fair-Play
+001296.wav,Cello,test,Fair-Play
+001297.wav,Song,train,Fair-Play
+001298.wav,Drum kit,train,Fair-Play
+001300.wav,Multi-instrument,test,Fair-Play
+001301.wav,Harp,train,Fair-Play
+001302.wav,Trumpet,train,Fair-Play
+001304.wav,Cello,train,Fair-Play
+001305.wav,Harp,test,Fair-Play
+001306.wav,Drum kit,train,Fair-Play
+001307.wav,Piano,train,Fair-Play
+001308.wav,Piano,val,Fair-Play
+001311.wav,Piano,train,Fair-Play
+001312.wav,Multi-instrument,train,Fair-Play
+001314.wav,Piano,train,Fair-Play
+001315.wav,Multi-instrument,test,Fair-Play
+001316.wav,Song,train,Fair-Play
+001317.wav,Song,train,Fair-Play
+001318.wav,Piano,train,Fair-Play
+001319.wav,Multi-instrument,test,Fair-Play
+001320.wav,Piano,train,Fair-Play
+001321.wav,Song,train,Fair-Play
+001322.wav,Trumpet,train,Fair-Play
+001323.wav,Multi-instrument,test,Fair-Play
+001324.wav,Song,train,Fair-Play
+001325.wav,Piano,train,Fair-Play
+001326.wav,Drum kit,train,Fair-Play
+001327.wav,Multi-instrument,test,Fair-Play
+001328.wav,Piano,train,Fair-Play
+001329.wav,Piano,train,Fair-Play
+001330.wav,Song,train,Fair-Play
+001331.wav,Harp,train,Fair-Play
+001333.wav,Harp,train,Fair-Play
+001335.wav,Piano,train,Fair-Play
+001336.wav,Piano,train,Fair-Play
+001337.wav,Drum kit,train,Fair-Play
+001338.wav,Song,train,Fair-Play
+001342.wav,Song,train,Fair-Play
+001343.wav,Trumpet,train,Fair-Play
+001345.wav,Harp,train,Fair-Play
+001346.wav,Multi-instrument,test,Fair-Play
+001347.wav,Multi-instrument,train,Fair-Play
+001348.wav,Multi-instrument,test,Fair-Play
+001349.wav,Piano,train,Fair-Play
+001350.wav,Cello,test,Fair-Play
+001351.wav,Piano,train,Fair-Play
+001353.wav,Song,train,Fair-Play
+001354.wav,Song,train,Fair-Play
+001356.wav,Multi-instrument,test,Fair-Play
+001357.wav,Multi-instrument,test,Fair-Play
+001358.wav,Multi-instrument,train,Fair-Play
+001359.wav,Multi-instrument,test,Fair-Play
+001360.wav,Song,train,Fair-Play
+001362.wav,Trumpet,val,Fair-Play
+001363.wav,Cello,train,Fair-Play
+001364.wav,Cello,train,Fair-Play
+001367.wav,Piano,train,Fair-Play
+001368.wav,Harp,train,Fair-Play
+001369.wav,Multi-instrument,train,Fair-Play
+001371.wav,Multi-instrument,train,Fair-Play
+001372.wav,Piano,train,Fair-Play
+001373.wav,Piano,train,Fair-Play
+001374.wav,Piano,train,Fair-Play
+001375.wav,Drum kit,train,Fair-Play
+001377.wav,Harp,train,Fair-Play
+001378.wav,Multi-instrument,train,Fair-Play
+001380.wav,Song,train,Fair-Play
+001381.wav,Multi-instrument,train,Fair-Play
+001383.wav,Drum kit,train,Fair-Play
+001384.wav,Song,train,Fair-Play
+001385.wav,Multi-instrument,train,Fair-Play
+001386.wav,Harp,test,Fair-Play
+001387.wav,Piano,train,Fair-Play
+001389.wav,Song,train,Fair-Play
+001390.wav,Piano,train,Fair-Play
+001391.wav,Song,train,Fair-Play
+001392.wav,Song,train,Fair-Play
+001393.wav,Trumpet,train,Fair-Play
+001396.wav,Drum kit,train,Fair-Play
+001397.wav,Multi-instrument,train,Fair-Play
+001398.wav,Song,train,Fair-Play
+001400.wav,Trumpet,val,Fair-Play
+001401.wav,Harp,train,Fair-Play
+001402.wav,Piano,train,Fair-Play
+001403.wav,Multi-instrument,test,Fair-Play
+001405.wav,Piano,train,Fair-Play
+001406.wav,Multi-instrument,train,Fair-Play
+001407.wav,Piano,train,Fair-Play
+001408.wav,Song,train,Fair-Play
+001409.wav,Drum kit,train,Fair-Play
+001410.wav,Song,train,Fair-Play
+001411.wav,Drum kit,train,Fair-Play
+001412.wav,Piano,train,Fair-Play
+001413.wav,Multi-instrument,test,Fair-Play
+001414.wav,Multi-instrument,val,Fair-Play
+001416.wav,Multi-instrument,val,Fair-Play
+001418.wav,Harp,test,Fair-Play
+001419.wav,Drum kit,val,Fair-Play
+001420.wav,Harp,train,Fair-Play
+001421.wav,Song,train,Fair-Play
+001423.wav,Trumpet,train,Fair-Play
+001424.wav,Trumpet,train,Fair-Play
+001426.wav,Multi-instrument,val,Fair-Play
+001427.wav,Trumpet,train,Fair-Play
+001428.wav,Piano,train,Fair-Play
+001431.wav,Multi-instrument,val,Fair-Play
+001432.wav,Drum kit,train,Fair-Play
+001433.wav,Song,train,Fair-Play
+001434.wav,Song,train,Fair-Play
+001435.wav,Multi-instrument,val,Fair-Play
+001436.wav,Cello,train,Fair-Play
+001437.wav,Trumpet,train,Fair-Play
+001438.wav,Piano,train,Fair-Play
+001441.wav,Multi-instrument,val,Fair-Play
+001442.wav,Piano,val,Fair-Play
+001443.wav,Song,train,Fair-Play
+001444.wav,Trumpet,train,Fair-Play
+001447.wav,Song,train,Fair-Play
+001448.wav,Trumpet,train,Fair-Play
+001450.wav,Piano,train,Fair-Play
+001451.wav,Multi-instrument,val,Fair-Play
+001452.wav,Song,train,Fair-Play
+001453.wav,Song,train,Fair-Play
+001454.wav,Multi-instrument,train,Fair-Play
+001455.wav,Harp,train,Fair-Play
+001456.wav,Song,train,Fair-Play
+001458.wav,Trumpet,train,Fair-Play
+001459.wav,Piano,test,Fair-Play
+001460.wav,Piano,train,Fair-Play
+001461.wav,Song,train,Fair-Play
+001463.wav,Harp,test,Fair-Play
+001465.wav,Multi-instrument,train,Fair-Play
+001466.wav,Song,train,Fair-Play
+001467.wav,Multi-instrument,val,Fair-Play
+001468.wav,Song,train,Fair-Play
+001469.wav,Multi-instrument,train,Fair-Play
+001470.wav,Trumpet,train,Fair-Play
+001472.wav,Multi-instrument,train,Fair-Play
+001473.wav,Trumpet,train,Fair-Play
+001474.wav,Piano,train,Fair-Play
+001476.wav,Multi-instrument,train,Fair-Play
+001479.wav,Multi-instrument,train,Fair-Play
+001480.wav,Song,train,Fair-Play
+001482.wav,Piano,val,Fair-Play
+001483.wav,Multi-instrument,train,Fair-Play
+001484.wav,Multi-instrument,train,Fair-Play
+001486.wav,Harp,train,Fair-Play
+001488.wav,Multi-instrument,train,Fair-Play
+001492.wav,Trumpet,train,Fair-Play
+001493.wav,Cello,train,Fair-Play
+001494.wav,Song,train,Fair-Play
+001495.wav,Song,train,Fair-Play
+001497.wav,Multi-instrument,train,Fair-Play
+001498.wav,Multi-instrument,train,Fair-Play
+001499.wav,Cello,train,Fair-Play
+001500.wav,Multi-instrument,train,Fair-Play
+001502.wav,Piano,train,Fair-Play
+001504.wav,Piano,train,Fair-Play
+001505.wav,Drum kit,val,Fair-Play
+001507.wav,Multi-instrument,train,Fair-Play
+001508.wav,Drum kit,train,Fair-Play
+001510.wav,Piano,train,Fair-Play
+001511.wav,Multi-instrument,train,Fair-Play
+001512.wav,Piano,test,Fair-Play
+001513.wav,Piano,train,Fair-Play
+001515.wav,Song,train,Fair-Play
+001518.wav,Cello,train,Fair-Play
+001519.wav,Drum kit,train,Fair-Play
+001520.wav,Multi-instrument,train,Fair-Play
+001521.wav,Cello,train,Fair-Play
+001522.wav,Multi-instrument,train,Fair-Play
+001523.wav,Cello,train,Fair-Play
+001525.wav,Multi-instrument,train,Fair-Play
+001526.wav,Multi-instrument,train,Fair-Play
+001527.wav,Multi-instrument,train,Fair-Play
+001528.wav,Song,train,Fair-Play
+001531.wav,Song,train,Fair-Play
+001532.wav,Cello,train,Fair-Play
+001533.wav,Cello,train,Fair-Play
+001534.wav,Song,train,Fair-Play
+001535.wav,Cello,train,Fair-Play
+001536.wav,Cello,train,Fair-Play
+001537.wav,Drum kit,train,Fair-Play
+001538.wav,Multi-instrument,train,Fair-Play
+001539.wav,Song,train,Fair-Play
+001540.wav,Multi-instrument,test,Fair-Play
+001541.wav,Song,train,Fair-Play
+001542.wav,Drum kit,val,Fair-Play
+001543.wav,Multi-instrument,train,Fair-Play
+001544.wav,Drum kit,train,Fair-Play
+001546.wav,Cello,train,Fair-Play
+001547.wav,Multi-instrument,train,Fair-Play
+001548.wav,Song,test,Fair-Play
+001549.wav,Song,train,Fair-Play
+001551.wav,Song,test,Fair-Play
+001552.wav,Cello,train,Fair-Play
+001553.wav,Song,test,Fair-Play
+001554.wav,Song,test,Fair-Play
+001556.wav,Multi-instrument,train,Fair-Play
+001557.wav,Multi-instrument,train,Fair-Play
+001558.wav,Multi-instrument,train,Fair-Play
+001560.wav,Song,test,Fair-Play
+001561.wav,Multi-instrument,train,Fair-Play
+001562.wav,Multi-instrument,train,Fair-Play
+001563.wav,Multi-instrument,train,Fair-Play
+001565.wav,Multi-instrument,train,Fair-Play
+001566.wav,Multi-instrument,train,Fair-Play
+001567.wav,Cello,train,Fair-Play
+001568.wav,Multi-instrument,train,Fair-Play
+001570.wav,Piano,val,Fair-Play
+001571.wav,Piano,train,Fair-Play
+001573.wav,Multi-instrument,train,Fair-Play
+001576.wav,Harp,train,Fair-Play
+001577.wav,Piano,train,Fair-Play
+001579.wav,Harp,train,Fair-Play
+001580.wav,Multi-instrument,train,Fair-Play
+001582.wav,Song,test,Fair-Play
+001583.wav,Multi-instrument,train,Fair-Play
+001584.wav,Song,test,Fair-Play
+001585.wav,Song,test,Fair-Play
+001586.wav,Multi-instrument,train,Fair-Play
+001587.wav,Piano,train,Fair-Play
+001588.wav,Cello,test,Fair-Play
+001589.wav,Multi-instrument,train,Fair-Play
+001590.wav,Song,test,Fair-Play
+001592.wav,Multi-instrument,train,Fair-Play
+001594.wav,Song,train,Fair-Play
+001597.wav,Song,val,Fair-Play
+001598.wav,Multi-instrument,train,Fair-Play
+001600.wav,Song,train,Fair-Play
+001603.wav,Song,train,Fair-Play
+001604.wav,Song,train,Fair-Play
+001605.wav,Piano,train,Fair-Play
+001606.wav,Trumpet,train,Fair-Play
+001607.wav,Cello,val,Fair-Play
+001608.wav,Trumpet,train,Fair-Play
+001609.wav,Song,train,Fair-Play
+001610.wav,Drum kit,val,Fair-Play
+001613.wav,Multi-instrument,train,Fair-Play
+001616.wav,Multi-instrument,train,Fair-Play
+001617.wav,Harp,train,Fair-Play
+001618.wav,Piano,train,Fair-Play
+001619.wav,Piano,train,Fair-Play
+001620.wav,Trumpet,train,Fair-Play
+001621.wav,Piano,train,Fair-Play
+001624.wav,Song,train,Fair-Play
+001625.wav,Harp,train,Fair-Play
+001626.wav,Song,val,Fair-Play
+001628.wav,Multi-instrument,train,Fair-Play
+001629.wav,Song,val,Fair-Play
+001630.wav,Harp,train,Fair-Play
+001631.wav,Piano,train,Fair-Play
+001633.wav,Song,train,Fair-Play
+001634.wav,Multi-instrument,train,Fair-Play
+001635.wav,Multi-instrument,train,Fair-Play
+001637.wav,Song,train,Fair-Play
+001638.wav,Piano,train,Fair-Play
+001639.wav,Song,train,Fair-Play
+001642.wav,Song,train,Fair-Play
+001643.wav,Cello,test,Fair-Play
+001644.wav,Multi-instrument,train,Fair-Play
+001646.wav,Piano,test,Fair-Play
+001647.wav,Multi-instrument,test,Fair-Play
+001648.wav,Song,train,Fair-Play
+001649.wav,Multi-instrument,train,Fair-Play
+001651.wav,Song,train,Fair-Play
+001652.wav,Harp,train,Fair-Play
+001654.wav,Song,train,Fair-Play
+001655.wav,Drum kit,val,Fair-Play
+001657.wav,Multi-instrument,train,Fair-Play
+001659.wav,Multi-instrument,train,Fair-Play
+001660.wav,Drum kit,val,Fair-Play
+001662.wav,Multi-instrument,train,Fair-Play
+001663.wav,Piano,train,Fair-Play
+001666.wav,Trumpet,train,Fair-Play
+001667.wav,Piano,train,Fair-Play
+001668.wav,Trumpet,train,Fair-Play
+001669.wav,Song,train,Fair-Play
+001670.wav,Song,test,Fair-Play
+001671.wav,Multi-instrument,train,Fair-Play
+001672.wav,Multi-instrument,train,Fair-Play
+001673.wav,Multi-instrument,train,Fair-Play
+001675.wav,Piano,train,Fair-Play
+001676.wav,Multi-instrument,train,Fair-Play
+001677.wav,Piano,train,Fair-Play
+001679.wav,Multi-instrument,train,Fair-Play
+001680.wav,Multi-instrument,train,Fair-Play
+001681.wav,Piano,train,Fair-Play
+001682.wav,Song,train,Fair-Play
+001683.wav,Multi-instrument,train,Fair-Play
+001684.wav,Cello,train,Fair-Play
+001689.wav,Piano,val,Fair-Play
+001691.wav,Drum kit,val,Fair-Play
+001696.wav,Harp,train,Fair-Play
+001701.wav,Piano,train,Fair-Play
+001713.wav,Piano,train,Fair-Play
+001717.wav,Piano,train,Fair-Play
+001723.wav,Harp,test,Fair-Play
+001724.wav,Piano,test,Fair-Play
+001728.wav,Piano,train,Fair-Play
+001732.wav,Cello,train,Fair-Play
+001737.wav,Cello,train,Fair-Play
+001740.wav,Piano,test,Fair-Play
+001745.wav,Piano,train,Fair-Play
+001748.wav,Harp,train,Fair-Play
+001751.wav,Piano,train,Fair-Play
+001757.wav,Harp,test,Fair-Play
+001759.wav,Multi-instrument,test,Fair-Play
+001760.wav,Piano,train,Fair-Play
+001765.wav,Harp,val,Fair-Play
+001767.wav,Cello,train,Fair-Play
+001770.wav,Harp,train,Fair-Play
+001774.wav,Harp,train,Fair-Play
+001777.wav,Harp,train,Fair-Play
+001785.wav,Piano,train,Fair-Play
+001787.wav,Piano,train,Fair-Play
+001792.wav,Piano,train,Fair-Play
+001809.wav,Harp,test,Fair-Play
+001811.wav,Piano,train,Fair-Play
+001813.wav,Harp,train,Fair-Play
+001819.wav,Cello,train,Fair-Play
+001820.wav,Piano,train,Fair-Play
+001823.wav,Song,test,Fair-Play
+001824.wav,Drum kit,test,Fair-Play
+001826.wav,Harp,train,Fair-Play
+001831.wav,Piano,test,Fair-Play
+001832.wav,Piano,train,Fair-Play
+001835.wav,Harp,train,Fair-Play
+001838.wav,Multi-instrument,test,Fair-Play
+001840.wav,Piano,val,Fair-Play
+001842.wav,Piano,train,Fair-Play
+001843.wav,Piano,train,Fair-Play
+001845.wav,Piano,train,Fair-Play
+001852.wav,Harp,train,Fair-Play
+001853.wav,Piano,train,Fair-Play
+001855.wav,Harp,train,Fair-Play
+001858.wav,Harp,train,Fair-Play
+001859.wav,Multi-instrument,test,Fair-Play
+001862.wav,Piano,train,Fair-Play
+001863.wav,Trumpet,train,Fair-Play
+001865.wav,Piano,train,Fair-Play
+001869.wav,Piano,train,Fair-Play
+001870.wav,Piano,train,Fair-Play
+001871.wav,Piano,train,Fair-Play
+001901.wav,Piano,train,free sound effects website
+001902.wav,Piano,train,free sound effects website
+001903.wav,Piano,train,free sound effects website
+001904.wav,Piano,train,free sound effects website
+001905.wav,Piano,train,free sound effects website
+001906.wav,Piano,train,free sound effects website
+001907.wav,Piano,train,free sound effects website
+001908.wav,Piano,train,free sound effects website
+001909.wav,Piano,train,free sound effects website
+001910.wav,Piano,train,free sound effects website
+001911.wav,Piano,train,free sound effects website
+001912.wav,Piano,train,free sound effects website
+001913.wav,Piano,train,free sound effects website
+001914.wav,Piano,train,free sound effects website
+001915.wav,Piano,train,free sound effects website
+001916.wav,Piano,train,free sound effects website
+001917.wav,Piano,train,free sound effects website
+001918.wav,Piano,train,free sound effects website
+001919.wav,Piano,train,free sound effects website
+001920.wav,Piano,train,free sound effects website
+001921.wav,Piano,train,free sound effects website
+001922.wav,Piano,train,free sound effects website
+001923.wav,Piano,train,free sound effects website
+001924.wav,Piano,train,free sound effects website
+001925.wav,Piano,train,free sound effects website
+001926.wav,Piano,train,free sound effects website
+001927.wav,Piano,train,free sound effects website
+001928.wav,Piano,train,free sound effects website
+001929.wav,Piano,train,free sound effects website
+001930.wav,Piano,train,free sound effects website
+001931.wav,Piano,train,free sound effects website
+001932.wav,Piano,train,free sound effects website
+001933.wav,Piano,test,free sound effects website
+001934.wav,Piano,test,free sound effects website
+001935.wav,Piano,test,free sound effects website
+001936.wav,Piano,test,free sound effects website
+001937.wav,Piano,test,free sound effects website
+001938.wav,Piano,val,free sound effects website
+001939.wav,Piano,val,free sound effects website
+001940.wav,Piano,val,free sound effects website
+001941.wav,Piano,val,free sound effects website
+001942.wav,Piano,val,free sound effects website
+001943.wav,Piano,val,free sound effects website
+001944.wav,Piano,val,free sound effects website
+001945.wav,Piano,val,free sound effects website
+001946.wav,Piano,val,free sound effects website
+001947.wav,Piano,val,free sound effects website
+001948.wav,Piano,val,free sound effects website
+001949.wav,Piano,val,free sound effects website
+001950.wav,Piano,val,free sound effects website
+001951.wav,Piano,val,free sound effects website
+001952.wav,Piano,val,free sound effects website
+001953.wav,Piano,val,free sound effects website
+001954.wav,Piano,val,free sound effects website
+001955.wav,Piano,val,free sound effects website
+001956.wav,Piano,test,free sound effects website
+001957.wav,Piano,test,free sound effects website
+001958.wav,Piano,test,free sound effects website
+001959.wav,Piano,test,free sound effects website
+001837.wav,Drum kit,val,free sound effects website
+001962.wav,Drum kit,test,free sound effects website
+001963.wav,Drum kit,test,free sound effects website
+001964.wav,Drum kit,test,free sound effects website
+001965.wav,Drum kit,test,free sound effects website
+001966.wav,Drum kit,test,free sound effects website
+001967.wav,Drum kit,test,free sound effects website
+001968.wav,Drum kit,test,free sound effects website
+001969.wav,Drum kit,test,free sound effects website
+001982.wav,Harp,val,free sound effects website
+001983.wav,Harp,val,free sound effects website
+001984.wav,Harp,val,free sound effects website
+001985.wav,Harp,train,free sound effects website
+001991.wav,Cello ,val,free sound effects website
+001992.wav,Cello ,val,free sound effects website
+001993.wav,Cello ,val,free sound effects website
+001996.wav,Chinese lute,train,free sound effects website
+001997.wav,Chinese lute,train,free sound effects website
+001998.wav,Chinese lute,train,free sound effects website
+001999.wav,Chinese lute,train,free sound effects website
+002000.wav,Chinese lute,train,free sound effects website
+002001.wav,Chinese lute,train,free sound effects website
+002002.wav,Chinese lute,train,free sound effects website
+002003.wav,Chinese lute,train,free sound effects website
+002004.wav,Chinese lute,train,free sound effects website
+002005.wav,Chinese lute,train,free sound effects website
+002006.wav,Chinese lute,train,free sound effects website
+002007.wav,Chinese lute,train,free sound effects website
+002008.wav,Chinese lute,train,free sound effects website
+002009.wav,Chinese lute,train,free sound effects website
+002010.wav,Chinese lute,train,free sound effects website
+002011.wav,Chinese lute,train,free sound effects website
+002012.wav,Chinese lute,train,free sound effects website
+002013.wav,Chinese lute,train,free sound effects website
+002014.wav,Chinese lute,train,free sound effects website
+002015.wav,Chinese lute,train,free sound effects website
+002016.wav,Chinese lute,train,free sound effects website
+002017.wav,Chinese lute,train,free sound effects website
+002018.wav,Chinese lute,train,free sound effects website
+002019.wav,Chinese lute,train,free sound effects website
+002020.wav,Chinese lute,train,free sound effects website
+002021.wav,Chinese lute,train,free sound effects website
+002022.wav,Chinese lute,train,free sound effects website
+002023.wav,Chinese lute,train,free sound effects website
+002024.wav,Chinese lute,train,free sound effects website
+002025.wav,Chinese lute,train,free sound effects website
+002026.wav,Chinese lute,train,free sound effects website
+002027.wav,Chinese lute,train,free sound effects website
+002028.wav,Chinese lute,train,free sound effects website
+002029.wav,Chinese lute,train,free sound effects website
+002030.wav,Chinese lute,train,free sound effects website
+002031.wav,Chinese lute,train,free sound effects website
+002032.wav,Chinese lute,train,free sound effects website
+002033.wav,Chinese lute,train,free sound effects website
+002034.wav,Chinese lute,train,free sound effects website
+002035.wav,Chinese lute,train,free sound effects website
+002036.wav,Chinese lute,train,free sound effects website
+002037.wav,Chinese lute,train,free sound effects website
+002038.wav,Chinese lute,train,free sound effects website
+002039.wav,Chinese lute,train,free sound effects website
+002040.wav,Chinese lute,train,free sound effects website
+002041.wav,Chinese lute,train,free sound effects website
+002042.wav,Chinese lute,train,free sound effects website
+002043.wav,Chinese lute,train,free sound effects website
+002044.wav,Chinese lute,val,free sound effects website
+002045.wav,Chinese lute,val,free sound effects website
+002046.wav,Chinese lute,val,free sound effects website
+002047.wav,Chinese lute,val,free sound effects website
+002048.wav,Chinese lute,val,free sound effects website
+002049.wav,Chinese lute,val,free sound effects website
+002050.wav,Chinese lute,test,free sound effects website
+002051.wav,Chinese lute,test,free sound effects website
+002052.wav,Chinese lute,test,free sound effects website
+002053.wav,Chinese lute,test,free sound effects website
+002054.wav,Chinese lute,test,free sound effects website
+002055.wav,Chinese lute,test,free sound effects website
+002056.wav,Chinese zither,train,free sound effects website
+002057.wav,Chinese zither,train,free sound effects website
+002058.wav,Chinese zither,train,free sound effects website
+002059.wav,Chinese zither,train,free sound effects website
+002060.wav,Chinese zither,train,free sound effects website
+002061.wav,Chinese zither,train,free sound effects website
+002062.wav,Chinese zither,train,free sound effects website
+002063.wav,Chinese zither,train,free sound effects website
+002064.wav,Chinese zither,train,free sound effects website
+002065.wav,Chinese zither,train,free sound effects website
+002066.wav,Chinese zither,train,free sound effects website
+002067.wav,Chinese zither,train,free sound effects website
+002068.wav,Chinese zither,train,free sound effects website
+002069.wav,Chinese zither,train,free sound effects website
+002070.wav,Chinese zither,train,free sound effects website
+002071.wav,Chinese zither,train,free sound effects website
+002072.wav,Chinese zither,train,free sound effects website
+002073.wav,Chinese zither,train,free sound effects website
+002074.wav,Chinese zither,train,free sound effects website
+002075.wav,Chinese zither,train,free sound effects website
+002076.wav,Chinese zither,train,free sound effects website
+002077.wav,Chinese zither,train,free sound effects website
+002078.wav,Chinese zither,train,free sound effects website
+002079.wav,Chinese zither,train,free sound effects website
+002080.wav,Chinese zither,train,free sound effects website
+002081.wav,Chinese zither,train,free sound effects website
+002082.wav,Chinese zither,train,free sound effects website
+002083.wav,Chinese zither,train,free sound effects website
+002084.wav,Chinese zither,train,free sound effects website
+002085.wav,Chinese zither,train,free sound effects website
+002086.wav,Chinese zither,train,free sound effects website
+002087.wav,Chinese zither,train,free sound effects website
+002088.wav,Chinese zither,train,free sound effects website
+002089.wav,Chinese zither,train,free sound effects website
+002090.wav,Chinese zither,train,free sound effects website
+002091.wav,Chinese zither,train,free sound effects website
+002092.wav,Chinese zither,train,free sound effects website
+002093.wav,Chinese zither,train,free sound effects website
+002094.wav,Chinese zither,train,free sound effects website
+002095.wav,Chinese zither,train,free sound effects website
+002096.wav,Chinese zither,train,free sound effects website
+002097.wav,Chinese zither,train,free sound effects website
+002098.wav,Chinese zither,train,free sound effects website
+002099.wav,Chinese zither,train,free sound effects website
+002100.wav,Chinese zither,train,free sound effects website
+002101.wav,Chinese zither,train,free sound effects website
+002102.wav,Chinese zither,train,free sound effects website
+002103.wav,Chinese zither,train,free sound effects website
+002104.wav,Chinese zither,val,free sound effects website
+002105.wav,Chinese zither,val,free sound effects website
+002106.wav,Chinese zither,val,free sound effects website
+002107.wav,Chinese zither,val,free sound effects website
+002108.wav,Chinese zither,val,free sound effects website
+002109.wav,Chinese zither,val,free sound effects website
+002110.wav,Chinese zither,test,free sound effects website
+002111.wav,Chinese zither,test,free sound effects website
+002112.wav,Chinese zither,test,free sound effects website
+002113.wav,Chinese zither,test,free sound effects website
+002114.wav,Chinese zither,test,free sound effects website
+002115.wav,Chinese zither,test,free sound effects website
+002116.wav,Cello,val,free sound effects website
+002117.wav,Cello,train,free sound effects website
+002118.wav,Cello,train,free sound effects website
+002124.wav,Chinese zither,train,free sound effects website
+002125.wav,Chinese zither,train,free sound effects website
+002126.wav,Chinese zither,train,free sound effects website
+002127.wav,Chinese zither,train,free sound effects website
