@@ -1,6 +1,4 @@
 #All the code goes here
-import argparse
-
 import unet_eca as unet
 import tensorflow as tf
 import soundfile as sf
@@ -14,10 +12,24 @@ import yaml
 import os
 
 os.environ['CUDA_VISIBLE_DEVICES'] ="0"
-#os.environ['CUDA_VISIBLE_DEVICES'] = '/gpu:0'
 
 from pathlib import Path
+args = yaml.safe_load(Path('conf/conf.yaml').read_text())
+class dotdict(dict):
+    """dot.notation access to dictionary attributes"""
+    __getattr__ = dict.get
+    __setattr__ = dict.__setitem__
+    __delattr__ = dict.__delitem__
+args=dotdict(args)
+unet_args=dotdict(args.unet)
 
+path_experiment=str(args.path_experiment)
+
+unet_model = unet.build_model_denoise(unet_args=unet_args)
+
+ckpt=os.path.join('D:/denoising/experiments/trained_model/musicecan5s/', 'checkpoint')
+print(ckpt)
+unet_model.load_weights(ckpt)
 
 def do_stft(noisy):
         
@@ -56,7 +68,8 @@ def denoise_audio(audio):
     if samplerate!=44100: 
         print("Resampling")
    
-        data=scipy.signal.resample(data, int((44100  / samplerate )*len(data))+1)
+        data=scipy.signal.resample(data, int((44100  / samplerate )*len(data))+1)  
+ 
     
     
     segment_size=44100*5  #20s segments
@@ -127,49 +140,3 @@ def denoise_audio(audio):
             denoised_data[pointer::]=denoised_data[pointer::]+pred_time[0:lensegment]
             residual_noise[pointer::]=residual_noise[pointer::]+residual_time[0:lensegment]
     return denoised_data
-
-def SNR_singlech(clean, ori):
-    length = min(len(clean), len(ori))
-    est_noise = ori[:length] - clean[:length]#计算噪声语音
-
-    #计算信噪比
-    SNR = 10*np.log10((np.sum(clean**2))/(np.sum(est_noise**2)))
-    return SNR
-
-def parse_args():
-    parser = argparse.ArgumentParser(description='test')
-    parser.add_argument('--input_audio_path', type=str, help='input_audio_path')
-    parser.add_argument('--out_put_dir', type=str, help='out_put_dir')
-    parser.add_argument('--yaml_path', type=str, help='yaml_path')
-    parser.add_argument('--ckpt_path', type=str, help='ckpt_path')
-    args_temp = parser.parse_args()
-    return args_temp
-
-
-if __name__ == '__main__':
-    args2 = parse_args()
-    args = yaml.safe_load(Path(args2.yaml_path).read_text())
-    class dotdict(dict):
-        """dot.notation access to dictionary attributes"""
-        __getattr__ = dict.get
-        __setattr__ = dict.__setitem__
-        __delattr__ = dict.__delitem__
-    args=dotdict(args)
-    unet_args=dotdict(args.unet)
-
-    path_experiment=str(args.path_experiment)
-
-    unet_model = unet.build_model_denoise(unet_args=unet_args)
-
-    # ckpt=os.path.join('./experiments/trained_model/eca', 'checkpoint')
-    ckpt=args2.ckpt_path
-    unet_model.load_weights(ckpt)
-
-    fn = args2.input_audio_path
-    # fn1='./clean/%03d.wav'%i
-    denoise_data = denoise_audio(fn)
-    basename = args2.out_put_dir
-    wav_output_name = os.path.join(basename, os.path.basename(fn)[:-4]+'_denoised.wav')
-    sf.write(wav_output_name, denoise_data, 44100)
-    # clean,_=sf.read(fn1)
-    # print(SNR_singlech(clean,denoise_data))
