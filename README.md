@@ -58,8 +58,7 @@ python makedataset.py
 ```bash
 python test_eca.py
 ```
-A set of pretrained weights can be found at.
-
+A set of pretrained weights can be found at [experiments](https://drive.google.com/drive/folders/14M6h-093ZBsug7sAAQvGQdMuNxEajUib?usp=sharing).</a>
 
 ## Acknowledgement
 We borrowed a lot of code from [A two-stage U-Net for high-fidelity denoising of historical recordings](https://github.com/eloimoliner/denoising-historical-recordings). Thanks for their great works. Please also cite their nice work if you use this code.
