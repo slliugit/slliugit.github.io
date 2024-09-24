@@ -1,7 +1,7 @@
 defaults:
   - dset: dataset
 
-path_experiment: "D:/denoising/experiments/trained_model/ecan_demand" #there should be a better way to do this 
+path_experiment: "D:/denoising/experiments/trained_model/musicecan5s" #there should be a better way to do this 
 tensorboard_logs: "./tensorboard_logs/unet_win" #path with tensorboard
 # Dataset related
 fs: 44100  #default is 44100, better NEVER change
@@ -42,7 +42,7 @@ beta2: 0.9 #used
 loss: "mae"  #choose loss: 
 
 epochs: 73
-batch_size: 1
+batch_size: 16
 val_take: -1
 steps_per_epoch: 1000
 
