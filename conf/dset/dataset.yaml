@@ -1,9 +1,9 @@
 dset:
-  path_music_train: [ "D:/denoising/dataset/clean_audio441/"] #D:/denoising/dataset/clean_audio441/"]
-  path_music_validation: ["D:/denoising/dataset/val441/"] #D:/denoising/dataset/val441/
-  path_music_test: ["D:/denoising/dataset/test_guzheng/"] #D:/denoising/dataset/test_guzheng
+  path_music_train: [ "D:/denoising/dataset/clean_audio/"]
+  path_music_validation: ["D:/denoising/dataset/val/"] 
+  path_music_test: ["D:/denoising/dataset/test/"] 
 
 
 
-  path_noises: "D:/denoising/dataset/noisex-92441/train/" #path with noise samples. There must be an info.csv file there
-  path_recordings: "D:/denoising/dataset/noisex-92441/val//" #path with real noisy recordings. There must be an audio_files.txt file there
+  path_noises: "D:/denoising/dataset/noise/train/" #path with noise samples. 
+  path_recordings: "D:/denoising/dataset/noise/val//" #path with real noisy recordings. 
