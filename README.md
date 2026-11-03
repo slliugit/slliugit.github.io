@@ -63,3 +63,9 @@ A set of pretrained weights can be found at [experiments](https://drive.google.c
 ## Acknowledgement
 We borrowed a lot of code from [A two-stage U-Net for high-fidelity denoising of historical recordings](https://github.com/eloimoliner/denoising-historical-recordings). Thanks for their great works. Please also cite their nice work if you use this code.
 
+## License
+
+This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+This repository contains code adapted from [denoising-historical-recordings](https://github.com/eloimoliner/denoising-historical-recordings), originally developed by Eloi Moliner Juanpere. The original copyright and license notices are retained.
+
